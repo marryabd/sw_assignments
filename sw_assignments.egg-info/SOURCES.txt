@@ -1,0 +1,11 @@
+README.md
+setup.py
+assignment1/src/modul_1/__init__.py
+assignment1/src/modul_1/functions.py
+assignment2/src/modul_2/__init__.py
+assignment2/src/modul_2/fsm.py
+assignment2/src/modul_2/mod_three_fsm.py
+sw_assignments.egg-info/PKG-INFO
+sw_assignments.egg-info/SOURCES.txt
+sw_assignments.egg-info/dependency_links.txt
+sw_assignments.egg-info/top_level.txt
