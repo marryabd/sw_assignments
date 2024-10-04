@@ -47,7 +47,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository**: Clone the repository to your local machine.
     ```bash
     git clone https://github.com/marryabd/sw_assignments.git
-    cd your-project
+    cd sw_assignments
     ```
 
 2. **Create a Virtual Environment**: It is recommended to use a virtual environment to manage dependencies.
