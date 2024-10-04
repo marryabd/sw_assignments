@@ -52,8 +52,20 @@ To set up the project, follow these steps:
 
 2. **Create a Virtual Environment**: It is recommended to use a virtual environment to manage dependencies.
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use: venv\Scripts\activate
+     python -m venv venv
+    ```
+    **Activate the Virtual Environment** depending on your operating system:
+     - **On Linux/macOS**:
+      ```bash
+     source venv/bin/activate
+      ```
+     - **On Windows (Git Bash)**:
+     ```bash
+     source venv/Scripts/activate
+     ```
+     - **On Windows (Command Prompt)**:
+    ```bash
+     venv\Scripts\activate
     ```
 
 3. **Install the Project**: Use `pip` to install the project and its dependencies.
