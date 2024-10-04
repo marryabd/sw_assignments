@@ -46,7 +46,7 @@ To set up the project, follow these steps:
 
 1. **Clone the Repository**: Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-repo/your-project.git
+    https://github.com/marryabd/sw_assignments.git
     cd your-project
     ```
 
